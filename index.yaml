@@ -3,7 +3,7 @@ entries:
   git-repo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-22T18:28:36.51915907Z"
+    created: "2023-06-22T18:39:32.000589181Z"
     description: A Helm chart for Kubernetes
     digest: 302f46c80d715ede21e60f16a5c93c98f85e65fdfa4530074c5278024dd5eaf7
     name: git-repo
@@ -11,4 +11,15 @@ entries:
     urls:
     - git-repo-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-22T18:28:36.518399085Z"
+  second-git-repo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-06-22T18:39:32.001147908Z"
+    description: A Helm chart for Kubernetes
+    digest: 600314286ad62dbf8721ca164592c67dad1adcc261eae99643d494367ae0a1f8
+    name: second-git-repo
+    type: application
+    urls:
+    - second-git-repo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-06-22T18:39:31.999812805Z"
